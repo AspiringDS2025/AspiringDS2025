@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AspiringDS2025
-- 👀 I’m interested in datascience
+- 👀 I’m interested in DataScience
 - 🌱 I’m currently learning python from udemy
-- 💞️ I’m looking to collaborate on resolving issues in code
+- 💞️ I’m looking to collaborate in learning Together
 - 😄 Pronouns: She/Her
   
 
